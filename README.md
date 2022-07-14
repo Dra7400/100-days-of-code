@@ -104,7 +104,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 86:](https://github.com/dra7400/100-days-of-code/tree/main/day86) Breakout: The Famous Arcade Game
 - [Day 87:](https://github.com/dra7400/100-days-of-code/tree/main/day87) Cafe and Wifi Website
 - [Day 88:](https://github.com/dra7400/100-days-of-code/tree/main/day88) To Do Agenda App
-- [Day 89:](https://github.com/dra7400/100-days-of-code/tree/main/day89) Disappearing Text Writing App
+- [Day 89:](https://github.com/dra7400/100-days-of-code/tree/main/day89) The Most Dangerous Text Writing App
 - [Day 90:](https://github.com/dra7400/100-days-of-code/tree/main/day90) Convert PDF to Audiobook
 - [Day 91:](https://github.com/dra7400/100-days-of-code/tree/main/day91) Image to Color List
 - [Day 92:](https://github.com/dra7400/100-days-of-code/tree/main/day92) Web Scraper
