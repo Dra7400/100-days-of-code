@@ -1,7 +1,7 @@
 <h1 align="center">100 Days of Code: The Complete Python Pro Bootcamp
 </h1>
 
-![100-days-of-code]![python](https://user-images.githubusercontent.com/88469667/178890568-21e0704d-3617-445a-9aba-572ca4c44f06.gif)
+![100-days-of-code](https://user-images.githubusercontent.com/88469667/178890568-21e0704d-3617-445a-9aba-572ca4c44f06.gif)
 
 
 Most projects ideas come from the Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
