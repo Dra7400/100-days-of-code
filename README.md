@@ -107,16 +107,15 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 89:](https://github.com/dra7400/100-days-of-code/tree/main/day89) Disappearing Text Writing App
 - [Day 90:](https://github.com/dra7400/100-days-of-code/tree/main/day90) Convert PDF to Audiobook
 - [Day 91:](https://github.com/dra7400/100-days-of-code/tree/main/day91) Image to Color List
-- [Day 92:](https://github.com/dra7400/100-days-of-code/tree/main/day92) Amazon Canada Web Scraper
+- [Day 92:](https://github.com/dra7400/100-days-of-code/tree/main/day92) Web Scraper
 - [Day 93:](https://github.com/dra7400/100-days-of-code/tree/main/day93) Google Dinosaur Game Bot
 - [Day 94:](https://github.com/dra7400/100-days-of-code/tree/main/day94) Space Invaders
-- [Day 95:](https://github.com/dra7400/100-days-of-code/tree/main/day95) Custom API
+- [Day 95:](https://github.com/dra7400/100-days-of-code/tree/main/day95) InstaBuddy Friend Finder
 - [Day 96:](https://github.com/dra7400/100-days-of-code/tree/main/day96) An Online Shop
 - [Day 97:](https://github.com/dra7400/100-days-of-code/tree/main/day97) Percentage Calculator
-- [Day 98:](https://github.com/dra7400/100-days-of-code/tree/main/day98) Analyzing and Visualizing the Space Race
-- [Day 99:](https://github.com/dra7400/100-days-of-code/tree/main/day99) Analyzing Deaths Involving Police in the United States
-- [Day 100:](https://github.com/dra7400/100-days-of-code/tree/main/day100) Predicting Earnings using Multivariable Regression
-
+- [Day 98:](https://github.com/dra7400/100-days-of-code/tree/main/day98) 
+- [Day 99:](https://github.com/dra7400/100-days-of-code/tree/main/day99) 
+- [Day 100:](https://github.com/dra7400/100-days-of-code/tree/main/day100) 
 ## ⚙ Tools and Technologies Covered
 - Python 3
 - PyCharm, Jupyter Notebook, Google Colab
