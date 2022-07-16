@@ -8,7 +8,7 @@
 Most projects ideas come from the Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
 
-## 🔰 Beginner
+## Beginner
 - [Day 1:](https://github.com/dra7400/100-days-of-code/tree/main/day01) Working with Variables in Python to Manage Data
 - [Day 2:](https://github.com/dra7400/100-days-of-code/tree/main/day02) Understanding Data Types and How to Manipulate Strings
 - [Day 3:](https://github.com/dra7400/100-days-of-code/tree/main/day03) Control Flow and Logical Operators
@@ -43,7 +43,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 30:](https://github.com/dra7400/100-days-of-code/tree/main/day30) Errors, Exceptions and JSON Data: Improving the Password Manager
 - [Day 31:](https://github.com/dra7400/100-days-of-code/tree/main/day31) Flash Card App Capstone Project
 
-## 👨‍💻 Intermediate+
+## Intermediate+
 - [Day 32:](https://github.com/dra7400/100-days-of-code/tree/main/day32) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
 - [Day 33:](https://github.com/dra7400/100-days-of-code/tree/main/day33) API Endpoints & API Parameters - ISS Overhead Notifier
 - [Day 34:](https://github.com/dra7400/100-days-of-code/tree/main/day34) API Practice - Creating a GUI Quiz App
@@ -72,7 +72,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 57:](https://github.com/dra7400/100-days-of-code/tree/main/day57) Templating with Jinja in Flask Applications
 - [Day 58:](https://github.com/dra7400/100-days-of-code/tree/main/day58) Web Foundation Boostrap
 
-## 🏆 Advanced
+## Advanced
 - [Day 59:](https://github.com/dra7400/100-days-of-code/tree/main/day59) Blog Capstone Project Part 2 - Adding Styling
 - [Day 60:](https://github.com/dra7400/100-days-of-code/tree/main/day60) Make POST Requests with Flask and HTML Forms
 - [Day 61:](https://github.com/dra7400/100-days-of-code/tree/main/day61) Building Advanced Forms with Flask-WTForms
@@ -117,7 +117,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 98:](https://github.com/dra7400/100-days-of-code/tree/main/day98) 
 - [Day 99:](https://github.com/dra7400/100-days-of-code/tree/main/day99) 
 - [Day 100:](https://github.com/dra7400/100-days-of-code/tree/main/day100) 
-## ⚙ Tools and Technologies Covered
+## Tools and Technologies Covered
 - Python 3
 - PyCharm, Jupyter Notebook, Google Colab
 - Python Scripting and Automation
