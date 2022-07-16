@@ -24,7 +24,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 13:](https://github.com/dra7400/100-days-of-code/tree/main/day13) Debugging: How to Find and Fix Errors in your Code
 - [Day 14:](https://github.com/dra7400/100-days-of-code/tree/main/day14) Higher Lower Game Project
 
-## 📚 Intermediate
+## Intermediate
 - [Day 15:](https://github.com/dra7400/100-days-of-code/tree/main/day15) Local Development Environment Setup & the Coffee Machine
 - [Day 16:](https://github.com/dra7400/100-days-of-code/tree/main/day16) Object Oriented Programming (OOP)
 - [Day 17:](https://github.com/dra7400/100-days-of-code/tree/main/day17) The Quiz Project & The Benefits of OOP
@@ -96,7 +96,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 79:](https://github.com/dra7400/100-days-of-code/tree/main/day79) The Tragic Discovery of Handwashing: t-Tests & Distributions
 - [Day 80:](https://github.com/dra7400/100-days-of-code/tree/main/day80) Capstone Project - Predict House Prices
 
-## ⚔ Professional Portfolio Projects
+## Professional Portfolio Projects
 - [Day 81:](https://github.com/dra7400/100-days-of-code/tree/main/day81) Text to Morse Code Converter
 - [Day 82:](https://github.com/dra7400/100-days-of-code/tree/main/day82) Portfolio Website
 - [Day 83:](https://github.com/dra7400/100-days-of-code/tree/main/day83) Tic Tac Toe
